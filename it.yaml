@@ -1,0 +1,190 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
+charity.donated: Donato
+charity.more-info: Di piu sul programma di Beneficenza IoTeX
+charity.question: Come ho conosciuto IoTeX? Perché sono interessato?
+charity.share-message: Condividi la tua azione di bontà!
+charity.to: A
+charity.tweet.summary.description: >-
+  Apprezziamo il tuo gran cuore! Oltre al regalo di ringraziamento fissato una-tantum
+  di 16,000 punti, ora mettiamo la tua buona azione sul website di IoTex!
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: Sei sulla lista d'onore di IoTex!
+claim.btn: RICHIEDI I TUOI PUNTI
+contact.btn: CONTATTACI
+contact.desc: Gli esperti di IoTex sono pronti a rispondere alle tue domande da support@iotex.io
+contact.title: RIMANI IN CONTATTO
+ethFoundation: Ethereum Foundation
+hall-of-fame.badge-section.title: Il primo programma di Beneficenza IoTeX — ETH Foundation
+hall-of-fame.badge-section.unicorn.desc: >
+  Ethereum ha rivoluzionato il mondo della blockchain negli ultimi quattro anni e
+  ha reso “blockchain” il nuovo termine di moda. In quanto leader del settore, Ethereum ha
+  fornito <a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
+  per incentivare ricercatori e sviluppatori a lavorare su vari fronti al fine di supportare
+  l'intero ecosistema della blockchain. IoTeX crede fermamente che possiamo spingere avanti
+  l'intero settore attraverso la ricerca rigorosa e la collaborazione. Abbiamo
+  bisogno di talenti e delle menti piu' illuminate per sfondare nel mondo. Un piccolo
+  ma potente modo che hai per aiutare la nostra cause è di donare ETH alla Ethereum
+  Foundation per aiutare a finanziare la ricerca nella Blockchain.
+
+
+  Per dettagli sulla partecipazione, unisciti al gruppo ufficiale <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> e rimani aggiornato coi messaggi
+  fissati.
+
+
+  Scopri piu' dettali su <a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
+  1st Charity Program Update</a>.
+hall-of-fame.search.label: Cerca col tuo hashid o il tuo Nome Visualizzato Preferito
+hall-of-fame.thank-you.message: >
+  Crowdsourcing non è nuovo come modo di finanziare una specifica iniziativa di beneficenza, ma
+  IoTeX lo fa attraverso “smart contracts” e direzionando l'interesse per la criptovaluta
+  verso iniziative di beneficenza. Nei prossimi mesi, con il suo Programma Premi per la
+  Comunità, IoTeX selezionerà dei programmi di beneficenza che sono in linea con
+  la missione di IoTeX di “Connettere il Mondo Fisico, Blocco per Blocco” come parte
+  del Programma di Premi per la Comunità di IoTex.
+
+
+  IoTeX crede nella crescita assieme alla comunità e nel connettere il
+  mondo fisico blocco per blocco. E' un obiettivo molto ambizioso ma può' essere
+  raggiunto con un team forte e una comunità di supporto. Insieme alla 
+  comunità per spingere la frontiera per lo sviluppo dell'ecosistema della
+  blockchain, IoTeX spera veramente che la comunità possa capire l'intenzione
+  iniziale e aiutare a promuovere la causa.
+hall-of-fame.title: IoTeX Beneficenza
+home.about.inno.0.desc.keep: >-
+  Supporta milioni di nodi con finalizzazione immediata e bassa latenza,
+  rispettoso dell'ambiente, disegnato per IoT
+home.about.inno.0.title.keep: Fast Consensus
+home.about.inno.1.desc.keep: >-
+  Come il Plasma, mette delle condizioni al di fuori della root chain per aumentare ulteriormente
+  la privacy, scalabilità e interoperabilità; trasferimento cross-chain innovativo di valore 
+  e dati
+home.about.inno.1.title.keep: Blockchain in Blockchains
+home.about.inno.2.desc.keep: >-
+  Massimizza la privacy con schemi crypto innovativi come indirizzi lightweight stealth
+  e constant size ring signature
+home.about.inno.2.title.keep: Tecniche di Built-in Privacy-preserving
+home.about.inno.3.desc.keep: 'Decentralized Autonomous Organization for IoT, codice è legge nel modo dei robot'
+home.about.inno.3.title.keep: Autonomous Device Coordination
+home.about.sol.desc1: >-
+  Nonostante la sua rapida evoluzione, IoT è ancora lontana dal raggiungere l'adozione di massa e
+  mancano le “killer applications” che attirerebbero nuovi utenti nell'ecosistema a causa di
+  problemi come la bassa scalabilità, alti costi operativi, problemi di privacy and mancanza
+  di valori funzionali.
+home.about.sol.desc2: >-
+  IoTex sta affrontando il problema introducendo la token economy negli spazio IoT
+  così come noi crediamo fortemente che gli incentivi alla crittografia così come
+  lo sforzo della comunità siano i due fattori chiave per alimentare le innovazioni
+  nello spazio IoT. In breve, IoTex è la piattaforma blockchain di prossima generazione
+  IoT-oriented con forte scalabilità, privacy, isolabilità e sviluppabilità per
+  incubare nuove applicazioni IoT ed ecosistemi.
+home.decentralized-protocol: Una Rete Decentralizzata per Internet delle Cose
+home.dustin.desc.keep: >-
+  Ph.D in Data Security presso USC. Staff software engineer presso Intel. 12 anni di
+  competenza in sistemi distribuiti, protezione dei contenuti, accelerazione video
+  hardware, video streaming su rete, driver grafici. Entusiasta di Crittografia e
+  blockchain.
+home.dustin.name.keep: Dustin Xie
+home.dustin.title.keep: Ingegnere Blockchain
+home.fan.desc.keep: >-
+  Precedentemente al servizio come Socio Fondatore di Sequoia Capital China, e
+  Direttore di DFJ ePlanet Ventures. Classificato da Forbes come uno dei maggiori capitalisti
+  d'impresa nella sua lista annuale China's Midas.
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: null
+home.guang.desc.keep: >-
+  IEEE Fellow. Professore presso l'Università di Waterloo, Canada. Brillante scienziato in
+  crittografia e crittografia leggera, reti ad hoc e sicurezza di Radio Frequency
+  Identification (RFID).
+home.guang.name.keep: Guang Gong
+home.guang.title.keep: null
+home.jack.desc.keep: >-
+  Co-Fondatore Socio Dirigente presso HCM Capital, Foxconn Technology Group.
+  Co-Fondatore e Direttore esecutivo presso Chained Finance Ltd., Fondatore e Direttore
+  Esecutivo presso FnConn, e Consigliere di Amministrazione presso Abra.
+home.jack.name.keep: Jack Lee
+home.jack.title.keep: null
+home.jing.desc.keep: >-
+  Partner fondatore di Sparkland Capital, focalizzato su Frontier Tech, dirige 40+
+  investimenti e innovazioni in blockchain, sicurezza and IoT. Consigliere di amministrazione presso
+  numerose aziende. Vasta esperienza in startup, investimenti e costruzione di
+  ecosistemi.
+home.jing.name.keep: Jing Sun
+home.jing.title.keep: Co-fondatore
+home.larry.desc.keep: >-
+  Management consultant presso Oliver Wyman, specializzato in operazioni. Doppia
+  Laurea di primo livello in Finanza ed Economia, ha frequentato Arti Visuali e Design presso il MIT.
+  Entusiasta Blockchain e IoT.
+home.larry.name.keep: Larry Pang
+home.larry.title.keep: Growth & Community
+home.monika.desc.keep: >-
+  Specialista in Tecnologia delle comunicazioni con una profonda competenza in cybersecurity,
+  privacy, networking e tecnologie emergenti.
+home.monika.name.keep: Monika Hathaway
+home.monika.title.keep: Comunicazione
+home.paddy.desc.keep: >-
+  Senior Software Engineer presso Microsoft, specializzato in sistemi distribuiti.
+  Contributore attivo per progetti Open Source. Laurea Magistrale in Informatica presso l'Università
+  di Yale.
+home.paddy.name.keep: Paddy Kan
+home.paddy.title.keep: Sistemi Distribuiti
+home.powered-by: Powered by a Privacy-Centric Blockchain
+home.qevan.desc.keep: >-
+  Ph.D in Apprendimento Automatico and Visione computerizzata presso l'Università Nazionale di
+  Singapore. Responsabile Tecnico e Ricercatore presso Facebook. Hacker
+  Evoluto. Investitore e consulente di startup. 20+ pubblicazioni / brevetti.
+home.qevan.name.keep: Qevan Guo
+home.qevan.title.keep: Co-founder
+home.raullen.desc.keep: >-
+  Ph.D e Ricercatore in Crittografia presso UWaterloo. Capo del settore R&D in Crittografia
+  presso Uber, Security Engineer presso Google.  8+ anni di esperienza in crittografia
+  e blockchain.
+home.raullen.name.keep: Raullen Chai
+home.raullen.title.keep: Co-fondatore
+home.section.advisors: IoTeX.Consulenti
+home.section.arch: IoTeX.Architettura
+home.section.innovations: IoTeX.Innovazioni
+home.section.investors: IoTeX.Investitori
+home.section.partners: IoTeX.PartnersStrategici
+home.section.roadmap: IoTeX.Roadmap
+home.section.team: IoTeX.Team
+home.section.teamfrom: IoTeX.Team.Background
+home.section.useceses: IoTeX.CasiDUso
+home.site.description: >-
+  Una rete centralizzata per Internet della cose ("Internet of Things", IoT), alimentata da una
+  Auto-Scalabile, Estensibile, Private-Centric Blockchain. Connettere il Mondo Fisico, Blocco per Blocco.
+home.slogan: Connettere il Mondo Fisico Blocco per Blocco
+home.xinxin.desc.keep: >-
+  Ph.D in Crittografia presso UWaterloo. Senior Research Engineer presso Bosch Research. 14
+  anni di ricerca e esperienza in Sicurezza dell'Informazione e Crittografia.
+  40+ pubblicazioni / brevetti.
+home.xinxin.name.keep: Xinxin Fan
+home.xinxin.title.keep: Capo della Crittografia
+home.zhefeng.desc.keep: >-
+  Master in Informatica presso l'Università della California San Diego e Laurea di primo livello
+  in Matematica e Informatica presso l'University of Wisconsin-Madison.
+  Entusiasta di tecnologia Blockchain, apprendimento automatico e Internet delle Cose.
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: Ingegnere Blockchain
+stonevan.twitter: >-
+  Ho appena ottenuto 100 punti gratis da IoTeX festeggiando la loro prima release di Testnet
+  Preview. @iotex_io Entra e ottieni i tuoi!
+subscribe.btn: SOTTOSCRIVI
+subscribe.desc: Con i nostri ultimi progressi ed eventi.
+subscribe.title: RESTATE AGGIORNATI
+testnet-preview.home-title: Testnet Preview (StoneVan) sarà rilasciata il
+testnet-preview.released-event-title: La nostra Testnet Preview è stata rilasciata!
+testnet-preview.released-title: Testnet Preview è stata rilasciata il
+topbar.blog: BLOG
+topbar.careers: CARRIERE
+topbar.charity: BENEFICENZA
+topbar.faq: FAQ
+topbar.home: HOME
+topbar.white-paper: WHITE PAPER
+whitepaper.button.next: PROSSIMO
+whitepaper.button.previous: PRECEDENTE
